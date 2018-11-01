@@ -1,0 +1,11 @@
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\bin\x64\Release\TS Ban Bypasser.exe.config
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\bin\x64\Release\TS Ban Bypasser.exe
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\bin\x64\Release\TS Ban Bypasser.pdb
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\bin\x64\Release\TS Ban Bypasser.xml
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS_Ban_Bypasser.Resources.resources
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS Ban Bypasser.vbproj.GenerateResource.cache
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS Ban Bypasser.vbproj.CoreCompileInputs.cache
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS Ban Bypasser.exe
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS Ban Bypasser.xml
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS Ban Bypasser.pdb
+C:\Users\Collin\source\repos\TS Ban Bypasser\TS Ban Bypasser\obj\x64\Release\TS Ban Bypasser.vbprojAssemblyReference.cache
